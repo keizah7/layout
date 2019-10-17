@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/keizah7/layout.svg)](http://hits.dwyl.com/keizah7/layout)
+
 # layout
 
 [Atvaizduoti](https://keizah7.github.io/layout/index.html) tą patį naudojant skirtingas display reikšmes.
