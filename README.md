@@ -7,7 +7,7 @@
 
 # layout
 
-Atvaizduoti tą patį naudojant skirtingas display reikšmes.
+Atvaizduoti tą patį layoutą naudojant skirtingas display reikšmes.
 
 display: [inline-block](https://keizah7.github.io/layout/block.html) | [flex](https://keizah7.github.io/layout/flex.html) | [grid](https://keizah7.github.io/layout/grid.html);
 

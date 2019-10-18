@@ -48,7 +48,7 @@ body header nav {
 @media (min-width: 1200px) {
   body header nav {
     position: unset;
-    margin: 0 150px 0 150px;
+    margin: 0 40% 0 40%;
     height: 100%;
     border: 1px solid transparent;
   }
